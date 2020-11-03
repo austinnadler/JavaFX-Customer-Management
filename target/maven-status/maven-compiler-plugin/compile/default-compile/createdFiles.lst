@@ -1,4 +1,3 @@
-com\austinnadler\custmgmtcsv\App.class
-com\austinnadler\custmgmtcsv\SystemInfo.class
-com\austinnadler\custmgmtcsv\Person.class
-module-info.class
+com\austinnadler\custmgmtmysql\SystemInfo.class
+com\austinnadler\custmgmtmysql\App.class
+com\austinnadler\custmgmtmysql\Person.class
